@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm @arizomo! 👋
 
-<!--
-**arizomo/arizomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Passionate about technology and software development.
+- 💡 Interested in automation projects and workflow optimization.
+- 🤝 Open to collaborations on innovative projects.
+  
+---
 
-Here are some ideas to get you started:
+- 🌱 Always learning and exploring new tools, especially about Azure architecture, .NET, and AI.
+- 👯 I’m looking to collaborate on open-source projects related to automation.
+- 🤔 I’m looking for help with understanding advanced CI/CD pipelines.
+- 📫 How to reach me: You can reach me directly here on GitHub @arizomo or through my profile's contact info.
+- ⚡ Fun fact: I once spent an entire day debugging a Docker issue that turned out to be a single missing character in a `.env` file!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My networks
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/alejorizo/)
